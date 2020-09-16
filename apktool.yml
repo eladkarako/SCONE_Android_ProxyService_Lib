@@ -1,0 +1,24 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: SCONE_Android_ProxyService_Lib.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '19'
+  targetSdkVersion: '19'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.4.2-0143dc-SNAPSHOT
+versionInfo:
+  versionCode: '20709020'
+  versionName: 2.7.9.2

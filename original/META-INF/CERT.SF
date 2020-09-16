@@ -1,0 +1,23 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: nl/DtR972nRpjey6ocvNKvmjvw8=
+Created-By: 1.6.0_41 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: H2rVmOMt8RPrrvsz+YbaGGs6rtI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: EJcBEaHnlTjJzNympp0Awqw05Vg=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: WzNShT+Vu/cn7CFoUoGxa/iQtdc=
+
+Name: lib/armeabi/libscone_proxy.so
+SHA1-Digest: zSuK1+8zxW22J8V5BkjPz0Ioywo=
+
+Name: resources.arsc
+SHA1-Digest: Q8wtmpdobgV+dO4r7mBhnje5TAM=
+
+Name: classes.dex
+SHA1-Digest: dt2VKwxKoF9s+OqaefgvhgkmUnI=
+
+Name: res/menu/activity_main.xml
+SHA1-Digest: 2Yi4CjBq6NJsx30zKX8qwiuhdkY=
+

@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_41 (Sun Microsystems Inc.)
+
+Name: AndroidManifest.xml
+SHA1-Digest: G7UEG59bEyL+RHlGs4EmrSbZTwI=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: 8fLYPbaLaPqkYcmjk9GaFp0JGOk=
+
+Name: lib/armeabi/libscone_proxy.so
+SHA1-Digest: Z/8GsFOFGvN+OJx5XWvRtIuTev4=
+
+Name: resources.arsc
+SHA1-Digest: XoqLkIRKRaq+VAo0uu3OvUISqbE=
+
+Name: classes.dex
+SHA1-Digest: UCxEj7KcZADUBtwRQWQmY2UPOIs=
+
+Name: res/menu/activity_main.xml
+SHA1-Digest: c3Z+Rlx0IWMo7hVxDnCyx5D9UR8=
+
